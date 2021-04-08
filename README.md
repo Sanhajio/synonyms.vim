@@ -1,5 +1,8 @@
 # Synonyms
 
+![synonyms.vim logo](/doc/logo.png "logo")
+
+
 ## Rationale
 
 Synonyms.vim is a frontend plugin that allows you to show synonyms in a vim split, it is meant to shorten the cycle of going to your browser look for a word and comeback to vim; Losing all the brilliant ideas that would have enlightened the world.
